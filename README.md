@@ -1,1 +1,5 @@
 # devoirlibre
+pour input j'ai utilisé la structure suivant :
+ { "idOrder": 101, "dateOrder": "2024-12-12", "amount": 250.75, "customerId": 1 }
+  { "idOrder": 102, "dateOrder": "2024-12-13", "amount": 180.50, "customerId": 2 }
+  { "idOrder": 103, "dateOrder": "2024-12-14", "amount": -320.00, "customerId": 3 }
